@@ -1,12 +1,13 @@
 # biosphere
 
+
 * [Homepage](https://rubygems.org/gems/biosphere)
 * [Documentation](http://rubydoc.info/gems/biosphere/frames)
 * [Email](mailto:jweissman1986 at gmail.com)
 
 ## Description
 
-  Cellular automata game (abstract client zero)
+  Cellular automata game (abstracta client zero.)
 
 ## Features
 
