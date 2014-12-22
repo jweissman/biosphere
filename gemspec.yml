@@ -1,6 +1,6 @@
 name: biosphere
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "cellular automata sim visualizer"
+description: "abstracta-based cellular automata sim game prototype"
 license: MIT
 authors: Joseph Weissman
 email: jweissman1986@gmail.com

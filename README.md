@@ -6,7 +6,7 @@
 
 ## Description
 
-TODO: Description
+  Cellular automata game (abstract client zero)
 
 ## Features
 
